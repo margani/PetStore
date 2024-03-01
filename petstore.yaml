@@ -104,6 +104,7 @@ components:
           format: int64
         name:
           type: string
+          example: Charlotte
         tag:
           type: string
     Pets:
