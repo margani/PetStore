@@ -10,7 +10,7 @@ servers:
   - url: http://petstore.swagger.io/v2
     description: Sandbox V1
   - url: http://petstore.swagger.io/v3
-      description: Acceptance V1
+    description: Acceptance V1
 paths:
   /pets:
     get:
